@@ -15,16 +15,16 @@ For text-wrangling and text pre-processing, I have leveraged a fair bit of nltk
 and spacy , both state-of-the-art libraries in NLP. Typically a pip install <library> or a
 conda install <library> should suffice.
   
-##OPTIONAL: ONLY USE IF SPACY FAILS TO LOAD LANGUAGE MODEL
-##Use the following command to install spaCy
+## OPTIONAL: ONLY USE IF SPACY FAILS TO LOAD LANGUAGE MODEL
+## Use the following command to install spaCy
 > pip install -U spacy
 OR
 > conda install -c conda-forge spacy
 
-##Download the following language model and store it in disk
+## Download the following language model and store it in disk
 https://github.com/explosion/spacy-models/releases/tag/en_core_web_md-2.0.0
 
-##Link the same to spacy 
+## Link the same to spacy 
 > python -m spacy link ./spacymodels/en_core_web_md-2.0.0/en_core_web_md en_core
 Linking successful
     ./spacymodels/en_core_web_md-2.0.0/en_core_web_md --> ./Anaconda3/lib/site-packages/spacy/data/en_core
