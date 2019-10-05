@@ -1,13 +1,13 @@
-# Web Crawling, Text Wrangling and Pre-processingText Wrangling & Pre-processing
+# Web Crawling, Text Wrangling and Pre-processing (Inshorts News)
 
 This covers covers the following aspects of NLP in detail with hands-on examples:
 
 1. Data Retrieval with Web Scraping
-2. Text wrangling and pre-processing
+2. Text wrangling and Pre-processing
 
 When I started delving into the world of data science, even I was overwhelmed by the challenges in analyzing and modeling on text data. However, after working on several challenging problems and projects around NLP over the months, I’ve noticed certain interesting aspects, including techniques, strategies and workflows which can be leveraged to solve a wide variety of problems.
 
-The source data which I have used are news articles, which I have retrieved from inshorts, a website that gives us short, 60-word news articles on a wide variety of topics, and they even have an app for it!
+The source data which I have used are news articles, which I have retrieved from Inshorts, a website that gives us short, 60-word news articles on a wide variety of topics, and they even have an app for it!
 
 Web Scraping using Beautiful Soup.
 
@@ -33,4 +33,6 @@ You can now load the model via spacy.load('en_core')
 Contractions module is not a standard python module. I did leverage a standard set of
 contractions available in the contractions.py file in my repository. Please add it in the
 same directory you run your code from, else it will not work.
+
+Happy Learning!
 
