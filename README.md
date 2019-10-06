@@ -1,4 +1,4 @@
-# Web Crawling, Text Wrangling and Pre-processing (Inshorts News)
+# Web Scraping, Text Wrangling and Pre-processing (Inshorts News)
 
 This covers covers the following aspects of NLP in detail with hands-on examples:
 
