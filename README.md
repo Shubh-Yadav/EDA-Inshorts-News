@@ -1,6 +1,6 @@
 # Web Scraping, Text Wrangling and Pre-processing (Inshorts News)
 
-This covers covers the following aspects of NLP in detail with hands-on examples:
+This covers the following aspects of NLP :
 
 1. Data Retrieval with Web Scraping
 2. Text wrangling and Pre-processing
